@@ -1,4 +1,4 @@
-!(screenshots/poster.png)
+![Bulk Image Resizer](screenshots/poster.png)
 
 # Bulk Image Resizer
 
