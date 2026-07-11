@@ -2,10 +2,6 @@
 
 # Bulk Image Resizer
 
-<p align="center">
-  <img src="screenshots/poster.png" alt="Bulk Image Resizer Poster" width="100%">
-</p>
-
 ---
 
 ## Overview
