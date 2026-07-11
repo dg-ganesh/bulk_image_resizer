@@ -32,8 +32,6 @@ Designed with simplicity in mind, the application focuses on the most common res
 
 ### Main Application
 
-> *(Replace with an actual application screenshot later if desired.)*
-
 <p align="center">
   <img src="screenshot/Homescreen.JPG" alt="Main Window" width="85%">
 </p>
