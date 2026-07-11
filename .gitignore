@@ -13,3 +13,14 @@ dist/
 .vscode/
 
 .DS_Store
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
